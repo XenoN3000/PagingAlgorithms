@@ -1,0 +1,6 @@
+.idea
+.vs
+.DS_Store
+.vscode 
+bin
+obj
